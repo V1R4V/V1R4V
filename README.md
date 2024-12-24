@@ -1,9 +1,13 @@
-# 💫 About Me:
-### Hi, I’m Vibhrav!<br>🤖I'm a student at UW Madison, pursuing a double major in Computer Science and Economics.<br/> As an active member of the Google Developer Club at UW Madison, I am deeply involved in the tech community. <br/> <br/> <br><br>🖥 Currently learning advanced JavaScript frameworks like React and Node.js, as well as ML with Python.<br/><br/><br><br>💞️ I’m looking to collaborate on innovative web development projects, open-source contributions,<br/> and hackathons.<br/><br/><br><br>📫 How to reach me: connect with me on LinkedIn at www.linkedin.com/in/vibhrav-jha-4846a3275.<br/><br/><br><br>⚡ Fun fact:  <br>I am working on an Ed-Tech project that solves complexity and saves time of millions of students.<br/><br>
 
+# 💻 About Me:
+### Hi, I'm Vibhrav!  
+I'm a double major in Computer Science and Economics at the University of Wisconsin-Madison. I'm passionate about technology and an active member of the Google Developer Club.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vibhrav-jha-4846a3275) 
+Currently, I’m focused on expanding my knowledge in advanced JavaScript frameworks (React, Node.js) and exploring machine learning with Python. I’m eager to collaborate on web development projects, contribute to open-source initiatives, and participate in hackathons.  
+
+🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vibhrav-jha-4846a3275).  
+
+🌟 Fun fact: I'm working on an Ed-Tech project designed to simplify complex tasks and save time for millions of students.
 
 # 💻 Tech Stack:
 
