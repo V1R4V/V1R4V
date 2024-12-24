@@ -30,6 +30,11 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
 </div>
 
+<div align="center">
+	
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4v&layout=compact)
+
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
