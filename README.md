@@ -1,9 +1,9 @@
 
 # 💻 About Me:
 ### Hi, I'm Vibhrav!  
-I'm a double major in Computer Science and Economics at the University of Wisconsin-Madison. I'm passionate about technology and an active member of the Google Developer Club.  
-
-Currently, I’m focused on expanding my knowledge in advanced JavaScript frameworks (React, Node.js) and exploring machine learning with Python. I’m eager to collaborate on web development projects, contribute to open-source initiatives, and participate in hackathons.  
+I'm a double major in Computer Science and Economics at the University of Wisconsin-Madison. I'm passionate about fullstack development and integrating AI.<br>
+Currently, I’m focused on expanding my knowledge in advanced JavaScript frameworks (React, Node.js) and exploring machine learning and AI with Python. <br>
+I’m eager to collaborate on web development projects, contribute to open-source initiatives, and participate in hackathons. <br>
 
 🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vibhrav-jha-4846a3275).  
 
