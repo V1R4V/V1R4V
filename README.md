@@ -36,7 +36,6 @@ I’m eager to collaborate on web development projects, contribute to open-sourc
 
 <div align="center">
 	
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4v&layout=compact)
 
 </div>
 
