@@ -5,7 +5,8 @@ I'm a double major in Computer Science and Economics at the University of Wiscon
 Currently, I’m focused on expanding my knowledge in advanced JavaScript frameworks (React, Node.js) and exploring machine learning and AI with Python. <br>
 I’m eager to collaborate on web development projects, contribute to open-source initiatives, and participate in hackathons. <br>
 
-🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vibhrav-jha-4846a3275).  
+🔗 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vibhrav-jha-4846a3275). 
+🌐 Know more about me visit my [Website](https://v1r4v.github.io/vibhrav/).
 
 🌟 Fun fact: I'm working on an Ed-Tech project designed to simplify complex tasks and save time for millions of students.
 
