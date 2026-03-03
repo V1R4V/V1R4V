@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
 ██╗   ██╗██╗██████╗ ██╗  ██╗██████╗  █████╗ ██╗   ██╗
 ██║   ██║██║██╔══██╗██║  ██║██╔══██╗██╔══██╗██║   ██║
 ██║   ██║██║██████╔╝███████║██████╔╝███████║██║   ██║
 ╚██╗ ██╔╝██║██╔══██╗██╔══██║██╔══██╗██╔══██║╚██╗ ██╔╝
  ╚████╔╝ ██║██████╔╝██║  ██║██║  ██║██║  ██║ ╚████╔╝
   ╚═══╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝
-```
+</pre>
 
 ### CS × Data Science × Economics @ UW–Madison
 #### Building systems at the intersection of AI, distributed computing, and human-centered design.
@@ -34,17 +34,17 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4v&layout=donut&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" />
-
 ### 🧠 About Me
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4v&layout=donut&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" width="300" />
+</div>
 
 ```yaml
 focus:    [AI Pipelines, Distributed Systems,
            HCI Research, Full-Stack Dev]
 open_to:  SWE / Fullstack / Data Analysis Internships Summer 2026
 ```
-
-<br clear="right"/>
 
 ---
 
