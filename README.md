@@ -37,7 +37,7 @@
 ### 🧠 About Me
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1r4v&layout=donut&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" width="300" />
+  <img src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" width="300" />
 </div>
 
 ```yaml
