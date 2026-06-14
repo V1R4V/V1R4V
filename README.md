@@ -41,9 +41,9 @@
 </div>
 
 ```yaml
-focus:    [AI Pipelines, Distributed Systems,
-           HCI Research, Full-Stack Dev]
-open_to:  SWE / Fullstack / Data Analysis Internships Summer 2026
+focus:    [Full-Stack Dev, Applied AI, Distributed Systems,
+           HCI Research]
+open_to:  SWE / Fullstack / Data Analysis Internships Fall 2026 and Summer 2027
 ```
 
 ---
