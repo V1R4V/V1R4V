@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <pre>
@@ -16,13 +15,10 @@
 
 &nbsp;
 
-<a href="https://vibhrav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=0d1117" height="34" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/vibhrav-jha-4846a3275"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0d1117" height="34" /></a>
-&nbsp;
-<a href="mailto:vibhrav@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=58A6FF&labelColor=0d1117" height="34" /></a>
-&nbsp;
-<a href="https://github.com/V1R4V?tab=repositories"><img src="https://img.shields.io/badge/Repos-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117" height="34" /></a>
+<a href="https://vibhrav.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58A6FF&labelColor=0d1117" alt="Portfolio" height="34"></a>&nbsp;
+<a href="https://www.linkedin.com/in/vibhrav-jha-4846a3275" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBmaWxsPSIjNThBNkZGIiBkPSJNMjE4LjEyMyAyMTguMTI3aC0zNy45MzF2LTU5LjQwM2MwLTE0LjE2NS0uMjUzLTMyLjQtMTkuNzI4LTMyLjQtMTkuNzU2IDAtMjIuNzc5IDE1LjQzNC0yMi43NzkgMzEuMzY5djYwLjQzaC0zNy45M1Y5NS45NjdoMzYuNDEzdjE2LjY5NGguNTFhMzkuOTA3IDM5LjkwNyAwIDAgMSAzNS45MjgtMTkuNzMzYzM4LjQ0NSAwIDQ1LjUzMyAyNS4yODggNDUuNTMzIDU4LjE4NmwtLjAxNiA2Ny4wMTNaTTU2Ljk1NSA3OS4yN2MtMTIuMTU3LjAwMi0yMi4wMTQtOS44NTItMjIuMDE2LTIyLjAwOS0uMDAyLTEyLjE1NyA5Ljg1MS0yMi4wMTQgMjIuMDA4LTIyLjAxNiAxMi4xNTctLjAwMyAyMi4wMTQgOS44NTEgMjIuMDE2IDIyLjAwOEEyMi4wMTMgMjIuMDEzIDAgMCAxIDU2Ljk1NSA3OS4yN20xOC45NjYgMTM4Ljg1OEgzNy45NVY5NS45NjdoMzcuOTd2MTIyLjE2Wk0yMzcuMDMzLjAxOEgxOC44OUM4LjU4LS4wOTguMTI1IDguMTYxLS4wMDEgMTguNDcxdjIxOS4wNTNjLjEyMiAxMC4zMTUgOC41NzYgMTguNTgyIDE4Ljg5IDE4LjQ3NGgyMTguMTQ0YzEwLjMzNi4xMjggMTguODIzLTguMTM5IDE4Ljk2Ni0xOC40NzRWMTguNDU0QzI1NS44NTIgOC4xMjQgMjQ3LjM2NC0uMTY0IDIzNy4wMzMuMDE4Ii8%2BPC9zdmc%2B&labelColor=0d1117" alt="LinkedIn" height="34"></a>&nbsp;
+<a href="mailto:vibhrav@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=maildotru&logoColor=58A6FF&labelColor=0d1117" alt="Email" height="34"></a>&nbsp;
+<a href="https://github.com/V1R4V?tab=repositories" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repos-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0d1117" alt="GitHub repositories" height="34"></a>
 
 <br/>
 
@@ -32,96 +28,99 @@
 
 ---
 
-<img align="right" width="300" src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" />
-
 ### About
 
 Product-minded engineer working across full-stack, applied AI, and backend
 infrastructure.
 
 ```yaml
-now:      GCP batch inference · video fingerprinting · Android accessibility
 studying: B.S. CS + Data Science + Economics — GPA 3.755, Dean's List ×3
 open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 ```
 
-<br clear="right"/>
-
 ---
 
 ### Stack
- 
+
 <table>
 <tr>
 <td><b>Languages</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/HTML%2FCSS-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
+<img height="30" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img height="30" src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" />
+<img height="30" src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img height="30" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img height="30" src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=4479A1" />
+<img height="30" src="https://img.shields.io/badge/HTML%2FCSS-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
 </td>
 </tr>
 <tr>
 <td><b>Frontend</b></td>
 <td>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" />
-<img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
-<img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84" />
+<img height="30" src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" />
+<img height="30" src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" />
+<img height="30" src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img height="30" src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=646CFF" />
+<img height="30" src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+<img height="30" src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84" />
 </td>
 </tr>
 <tr>
 <td><b>Backend &amp; Cloud</b></td>
 <td>
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" />
-<img src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" />
-<img src="https://img.shields.io/badge/gRPC-0D1117?style=flat-square&logo=protobuf&logoColor=E10098" />
+<img height="30" src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688" />
+<img height="30" src="https://img.shields.io/badge/Google_Cloud-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
+<img height="30" src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED" />
+<img height="30" src="https://img.shields.io/badge/CI%2FCD-0D1117?style=flat-square&logo=githubactions&logoColor=2088FF" />
+<img height="30" src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img height="30" src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=D71F00" />
+<img height="30" src="https://img.shields.io/badge/gRPC-0D1117?style=flat-square" />
 </td>
 </tr>
 <tr>
 <td><b>AI / ML</b></td>
 <td>
-<img src="https://img.shields.io/badge/Vertex_AI-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
-<img src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=6FA8DC" />
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/IBM_Docling-0D1117?style=flat-square&logo=ibm&logoColor=0F62FE" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E70488" />
+<img height="30" src="https://img.shields.io/badge/Vertex_AI-0D1117?style=flat-square&logo=googlecloud&logoColor=4285F4" />
+<img height="30" src="https://img.shields.io/badge/Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8E75B2" />
+<img height="30" src="https://img.shields.io/badge/ONNX-0D1117?style=flat-square&logo=onnx&logoColor=6FA8DC" />
+<img height="30" src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=FFFFFF" />
+<img height="30" src="https://img.shields.io/badge/IBM_Docling-0D1117?style=flat-square" />
+<img height="30" src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=E70488" />
 </td>
 </tr>
 <tr>
 <td><b>Data &amp; Storage</b></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=1BB4EF" />
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=29B5E8" />
-<img src="https://img.shields.io/badge/Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=00BFB3" />
+<img height="30" src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img height="30" src="https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img height="30" src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img height="30" src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=1BB4EF" />
+<img height="30" src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img height="30" src="https://img.shields.io/badge/Snowflake-0D1117?style=flat-square&logo=snowflake&logoColor=29B5E8" />
+<img height="30" src="https://img.shields.io/badge/Elasticsearch-0D1117?style=flat-square&logo=elasticsearch&logoColor=00BFB3" />
 </td>
 </tr>
 <tr>
 <td><b>Big Data &amp; Distributed</b></td>
 <td>
-<img src="https://img.shields.io/badge/Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C" />
-<img src="https://img.shields.io/badge/Cassandra-0D1117?style=flat-square&logo=apachecassandra&logoColor=1287B1" />
-<img src="https://img.shields.io/badge/HDFS-0D1117?style=flat-square&logo=apachehadoop&logoColor=66CCFF" />
-<img src="https://img.shields.io/badge/dbt-0D1117?style=flat-square&logo=dbt&logoColor=FF694B" />
-<img src="https://img.shields.io/badge/Airbyte-0D1117?style=flat-square&logo=airbyte&logoColor=615EFF" />
+<img height="30" src="https://img.shields.io/badge/Kafka-0D1117?style=flat-square&logo=apachekafka&logoColor=FFFFFF" />
+<img height="30" src="https://img.shields.io/badge/Spark-0D1117?style=flat-square&logo=apachespark&logoColor=E25A1C" />
+<img height="30" src="https://img.shields.io/badge/Cassandra-0D1117?style=flat-square&logo=apachecassandra&logoColor=1287B1" />
+<img height="30" src="https://img.shields.io/badge/HDFS-0D1117?style=flat-square&logo=apachehadoop&logoColor=66CCFF" />
+<img height="30" src="https://img.shields.io/badge/dbt-0D1117?style=flat-square" />
+<img height="30" src="https://img.shields.io/badge/Airbyte-0D1117?style=flat-square&logo=airbyte&logoColor=615EFF" />
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<img width="420" src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" alt="Most used languages" />
+
+</div>
+
 ---
+
 ### Experience
 
 <details open>
@@ -144,7 +143,7 @@ Video forensics — perceptual fingerprinting under adversarial transforms.
 Geospatial + bioacoustics platform for biodiversity monitoring.
 
 - **8–10× inference throughput** — replaced synchronous Vertex AI calls with GCP Batch Prediction, cutting per-file processing from 40–50s to ~5s and trimming **$80–95/env/month** in cloud spend
-- Idempotent orchestration for **500-file audio batches** with FastAPI + async SQLAlchemy, linking GCS objects and PostGIS metadata to distributed Vertex outputs with full source-file traceability
+- Idempotent orchestration for **500-file audio batches** with FastAPI + async SQLAlchemy, linking GCS objects and PostGIS metadata to distributed Vertex AI outputs while preserving source-file traceability
 - Camera-trap species detection pipeline on Cloud Run (GCS + SpeciesNet + PostgreSQL), handling **1,000–2,000 images per client site**
 
 </details>
@@ -154,10 +153,8 @@ Geospatial + bioacoustics platform for biodiversity monitoring.
 
 <br/>
 
-IRB-approved HCI study with adults with intellectual and developmental disabilities.
-
-- Android safety-guidance app using **AccessibilityService + MediaProjection + Gemini** to read on-screen activity and surface real-time risk guidance
-- Deterministic `RiskAssessor` layer that validates structured Gemini output, rejects malformed responses, and enforces rule-based safety floors ahead of irreversible user actions
+- Built an **Android safety-guidance application** for an IRB-approved HCI study involving adults with intellectual and developmental disabilities, integrating **AccessibilityService, MediaProjection, and Gemini** to analyze on-screen activity and render real-time risk guidance
+- Hardened AI-generated guidance by implementing a deterministic `RiskAssessor` that validates structured Gemini outputs, rejects malformed responses, and enforces rule-based safety floors before irreversible user actions
 
 </details>
 
@@ -276,22 +273,20 @@ surfacing patterns in problem categories, failure modes, and rating movement.
 </tr>
 </table>
 
-<!-- <div align="center">
+---
 
-<!-- <img src="https://readme-seven-drab.vercel.app/api?username=v1r4v&show_icons=true&hide_border=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF&hide=issues" width="420" alt="GitHub stats" /> -->
-
-<!-- </div> -->
+<div align="center">
 
 **Last updated August 2026**
 
-Details here keep changing due the nature of work. Also Some work is under NDA, Some are mid-flight,
+Details here keep changing — that's the nature of the work.
 <br/>
-and some of my projects/work has not been made public.
+Some of it is under NDA, some is mid-flight, and some isn't public yet.
 <br/>
-So please treat this README as a snapshot of my work 😄!
+So please treat this README as a snapshot of my work 😄
 
 <br/>
 
-For the version with actual detail -> <a href="mailto:vibhrav@gmail.com">reach out</a>.
+To know more → <a href="mailto:vibhrav@gmail.com">reach out</a>
 
 </div>
