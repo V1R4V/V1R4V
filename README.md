@@ -182,7 +182,7 @@ Production AI infrastructure for enterprise proposal workflows.
 <tr>
 <td width="50%" valign="top">
 
-#### [DermaNet](https://github.com/V1R4V/DermaNet)
+#### [DermaNet](https://devpost.com/software/dermanet)
 `Python` `FastAPI` `ONNX` `Ollama` `Docker`
 
 **Screens skin lesions for cancer risk without ever touching the internet.**
