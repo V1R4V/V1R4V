@@ -11,7 +11,7 @@
 
 **CS × Data Science × Economics @ UW–Madison**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Distributed+systems+%E2%80%A2+Applied+AI+%E2%80%A2+HCI+research;Shipping+inference+pipelines+that+survive+production;Open+to+SWE+roles+%E2%80%94+Fall+2026+%2F+Summer+2027" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=FullStack+Development+%E2%80%A2+Applied+AI+%E2%80%A2+Research;Shipping+code+that+Thrives+in+production;Open+to+SWE+roles+%E2%80%94+Fall+2026+%2F+Summer+2027" alt="Typing SVG" />
 
 &nbsp;
 
