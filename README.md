@@ -131,10 +131,12 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 
 <br/>
 
-Video forensics — perceptual fingerprinting under adversarial transforms.
+*Video forensics — perceptual fingerprinting under adversarial transforms.*
 
-- Benchmarking pipeline evaluating **600+ source videos** against up to **2,000+** horizontal, vertical, and combined-flip variants
-- Reproducible evaluation workflow generating byte-level SSIM fingerprints, measuring continuous match rate, normalized Hamming distance, and fingerprint length
+`Python` `SSIM` `Perceptual hashing` `Benchmarking`
+
+- **600+ source videos** benchmarked against up to **2,000+** horizontal, vertical, and combined-flip variants
+- **Byte-level SSIM fingerprints** in a reproducible evaluation workflow, scored on continuous match rate, normalized Hamming distance, and fingerprint length
 
 </details>
 
@@ -143,34 +145,42 @@ Video forensics — perceptual fingerprinting under adversarial transforms.
 
 <br/>
 
-Geospatial + bioacoustics platform for biodiversity monitoring.
+*Geospatial + bioacoustics platform for biodiversity monitoring.*
 
-- **8–10× inference throughput** — replaced synchronous Vertex AI calls with GCP Batch Prediction, cutting per-file processing from 40–50s to ~5s and trimming **$80–95/env/month** in cloud spend
-- Idempotent orchestration for **500-file audio batches** with FastAPI + async SQLAlchemy, linking GCS objects and PostGIS metadata to distributed Vertex AI outputs while preserving source-file traceability
-- Camera-trap species detection pipeline on Cloud Run (GCS + SpeciesNet + PostgreSQL), handling **1,000–2,000 images per client site**
+`Vertex AI` `GCP Batch` `FastAPI` `SQLAlchemy` `PostGIS` `Cloud Run`
 
-</details>
-
-<details>
-<summary><b>People &amp; Robots Lab, UW–Madison</b> — Undergraduate Research Assistant &nbsp;·&nbsp; <code>Jan 2026 – Present</code></summary>
-
-<br/>
-
-- Built an **Android safety-guidance application** for an IRB-approved HCI study involving adults with intellectual and developmental disabilities, integrating **AccessibilityService, MediaProjection, and Gemini** to analyze on-screen activity and render real-time risk guidance
-- Hardened AI-generated guidance by implementing a deterministic `RiskAssessor` that validates structured Gemini outputs, rejects malformed responses, and enforces rule-based safety floors before irreversible user actions
+- **8–10× inference throughput** — swapped synchronous Vertex AI calls for GCP Batch Prediction: ~5s per file (was 40–50s) and **−$80–95/env/month** in cloud spend
+- **500-file audio batches** under idempotent FastAPI + async SQLAlchemy orchestration, linking GCS objects and PostGIS metadata to Vertex AI outputs with full source-file traceability
+- **1,000–2,000 images per client site** through a Cloud Run camera-trap pipeline (GCS + SpeciesNet + PostgreSQL)
 
 </details>
 
 <details>
-<summary><b>VDart Inc.</b> — Software Engineering Intern &nbsp;·&nbsp; <code>May – Aug 2025</code></summary>
+<summary><b>People &amp; Robots Lab, UW–Madison</b> — Undergraduate Research Assistant &nbsp;·&nbsp; <code>Jan 2026 – Present</code> &nbsp;·&nbsp; <i>AI safety guidance on Android</i></summary>
 
 <br/>
 
-Production AI infrastructure for enterprise proposal workflows.
+*Android safety guidance for adults with intellectual and developmental disabilities — an IRB-approved HCI study.*
 
-- Automated RFI/RFP pipeline (IBM Docling + Llama 3 + Gemini) cutting turnaround from **two weeks to under 24 hours** — 3× team capacity
-- Shipped React chat interface + FastAPI backend serving **50+ BI users**: file upload, document ingestion, retrieval-backed query, response parsing
-- **96% retrieval accuracy** against historical proposal benchmarks via layout-aware ingestion and semantic chunking preserving tables, headers, and hierarchy
+`Android` `AccessibilityService` `MediaProjection` `Gemini`
+
+- **Real-time risk guidance** from on-screen activity, integrating AccessibilityService, MediaProjection, and Gemini
+- **Deterministic `RiskAssessor`** that validates structured Gemini output, rejects malformed responses, and enforces rule-based safety floors before irreversible user actions
+
+</details>
+
+<details>
+<summary><b>VDart Inc.</b> — Software Engineering Intern &nbsp;·&nbsp; <code>May – Aug 2025</code> &nbsp;·&nbsp; <i>2 weeks → &lt;24h RFP turnaround</i></summary>
+
+<br/>
+
+*Production AI infrastructure for enterprise proposal workflows.*
+
+`IBM Docling` `Llama 3` `Gemini` `React` `FastAPI`
+
+- **2 weeks → under 24 hours** RFI/RFP turnaround with an IBM Docling + Llama 3 + Gemini pipeline — **3× team capacity**
+- **50+ BI users** on a React chat interface + FastAPI backend: file upload, document ingestion, retrieval-backed query, response parsing
+- **96% retrieval accuracy** on historical proposal benchmarks via layout-aware ingestion and semantic chunking that preserves tables, headers, and hierarchy
 
 </details>
 
