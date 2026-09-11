@@ -47,6 +47,7 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 <td><b>Languages</b></td>
 <td>
 <img height="30" src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB" />
+<img height="30" src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626" />
 <img height="30" src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=F89820" />
 <img height="30" src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6" />
 <img height="30" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E" />
@@ -115,7 +116,9 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 
 <div align="center">
 
-<img width="420" src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58A6FF" alt="Most used languages" />
+<img width="420" src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58A6FF&size_weight=0.3&count_weight=0.7&hide=html,tex,css,shell,dockerfile,powershell,makefile,batchfile,procfile,mermaid,scss" alt="Most used languages" />
+
+<sub>Jupyter Notebook is Python written in notebooks, so together they make up the largest share of my code.</sub>
 
 </div>
 
@@ -219,6 +222,35 @@ which subject is quietly eating the week.
 <tr>
 <td width="50%" valign="top">
 
+#### [LLM Fine-Tuning vs. RAG](https://github.com/V1R4V/LLM-LoRA-Finetuning-vs-RAG)
+`PyTorch` `LoRA` `Haystack` `Elasticsearch` `Streamlit`
+
+**Does a 1B model learn a domain better by training on it — or by looking it up?**
+
+LoRA fine-tuned a 4-bit Llama-3.2-1B on QA pairs a 7B teacher model synthesized from
+23 lecture transcripts, cutting perplexity **48.85 → 2.49**, then pitted it against a
+Haystack + Elasticsearch RAG pipeline. Fine-tuning learned the vocabulary; retrieval
+got the facts right. Sentence-level chunking more than doubled retrieval precision
+(**0.40 → 0.87 P@3**).
+
+</td>
+<td width="50%" valign="top">
+
+#### [Foundry + AIP Operational Designs](https://github.com/V1R4V/Palantir-Foundry-AIP-Projects)
+`Palantir Foundry` `AIP` `Ontology` `Python`
+
+**What if a defense acquisition officer could just ask the contract ledger?**
+
+Zero-dependency pipeline turning USASpending.gov awards and SIPRI military spend into
+Foundry-ready objects — **971 contracts, 189 deduplicated contractors, 24 countries** of
+2014–2024 spend — designed around an AIP briefing agent. Companion design: a
+mass-casualty triage command center where the agent recommends beds and a doctor decides.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### [Real-Time Stock Streaming Engine](https://github.com/V1R4V/Real-Time-Stock-Data-Streaming-Kafka)
 `Kafka` `gRPC` `Protobuf` `HDFS`
 
@@ -248,6 +280,67 @@ having a bad day.
 <tr>
 <td width="50%" valign="top">
 
+#### [Multi-Source ELT Pipeline](https://github.com/V1R4V/Snowflake-dbt-ELT-Pipeline)
+`Airbyte` `Snowflake` `dbt` `SQL`
+
+**Three sources, one warehouse, zero hand-copied CSVs.**
+
+Airbyte lands a live survey sheet and trading-desk files in Snowflake; dbt staging
+views join them with Marketplace stock and FX series into a trade-level profit fact
+table. What it surfaced: the FX desk earns more, but the Equity desk turns its capital
+over **2× faster** (1.27% vs 0.63%).
+
+</td>
+<td width="50%" valign="top">
+
+#### [Retail Sales Forecasting](https://github.com/V1R4V/Retail-Sales-Forecasting)
+`LightGBM` `XGBoost` `CatBoost` `Optuna`
+
+**Forecast two weeks of sales for every store × product family — without peeking at the future.**
+
+Leakage-free time split, interpolated oil prices, holiday and promo features, and three
+Optuna-tuned gradient boosters over a national grocery chain's history. XGBoost landed
+at **0.484 RMSLE** — about half the error of a linear baseline (0.988).
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b> &nbsp;·&nbsp; 6 more</summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### [Geospatial Pipeline on GCP](https://github.com/V1R4V/GCP-BigQuery-Geospatial-Pipeline)
+`BigQuery GIS` `Dataform` `Cloud Storage`
+
+**Which high school is closest to every middle school in the county?**
+
+GCS → Dataform → BigQuery pipeline that drops **2,116 public schools** into county
+polygons with `ST_CONTAINS`, then answers nearest-neighbor questions with
+`ST_DISTANCE` + `MIN_BY` — cheap enough to run ~6.8M times per TiB scanned.
+
+</td>
+<td width="50%" valign="top">
+
+#### [Chat Agent + React Apps](https://github.com/V1R4V/React-Web-and-Mobile-Apps)
+`React` `React Native` `Expo` `LLM tools`
+
+**An LLM that can actually use the app, not just talk about it.**
+
+Tool-calling agent with **7 tools** that reads chatrooms, checks who's signed in, and
+drafts posts — but every write waits on a human confirmation modal. Part of a
+7-app web + mobile suite with a multi-persona LLM client and secure-store auth.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### [Startup Scout](https://github.com/V1R4V/Startupscout)
 `TypeScript` `React` `Express` `SQLite`
 
@@ -271,13 +364,40 @@ surfacing patterns in problem categories, failure modes, and rating movement.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [When Does Lake Mendota Stop Freezing?](https://github.com/V1R4V/Lake-Mendota-Ice-Regression)
+`NumPy` `Linear Regression`
+
+**A 170-year ice record, one straight line, and an uncomfortable answer.**
+
+Normal-equation and gradient-descent regression written from scratch over ice-cover
+data back to 1855: ~85 frozen days predicted for 2023, and a trend that reaches zero
+around **2463** — a lesson in how confidently linear models extrapolate.
+
+</td>
+<td width="50%" valign="top">
+
+#### [Geospatial Search on MongoDB](https://github.com/V1R4V/Yelp-MongoDB-Geospatial-Analytics)
+`MongoDB` `PyMongo` `GeoPandas`
+
+**Everything within walking distance of the pier — answered by the database, not a map app.**
+
+Aggregation pipelines, `$lookup` joins, and `2dsphere` queries (`$geoWithin`,
+`$near`, `$centerSphere`) over Yelp's Santa Barbara businesses, rendered as maps.
+
+</td>
+</tr>
 </table>
+
+</details>
 
 ---
 
 <div align="center">
 
-**Last updated August 2026**
+**Last updated September 2026**
 
 Details here keep changing — that's the nature of the work.
 <br/>
