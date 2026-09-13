@@ -116,7 +116,7 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 
 <div align="center">
 
-<img width="420" src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=58A6FF&size_weight=0.3&count_weight=0.7&hide=html,tex,css,shell,dockerfile,powershell,makefile,batchfile,procfile,mermaid,scss" alt="Most used languages" />
+<img width="420" src="https://readme-seven-drab.vercel.app/api/top-langs/?username=v1r4v&layout=compact&theme=github_dark&hide_border=true&langs_count=10&title_color=58A6FF&size_weight=0.4&count_weight=0.6&exclude_repo=readme" alt="Most used languages" />
 
 <sub>Jupyter Notebook is Python written in notebooks, so together they make up the largest share of my code.</sub>
 
