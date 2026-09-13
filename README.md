@@ -127,7 +127,7 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 ### Experience
 
 <details open>
-<summary><b>ACERT, Cornell University</b> — Undergraduate Research Assistant &nbsp;·&nbsp; <code>Jul 2026 – Present</code></summary>
+<summary><b>ACERT, Cornell University</b> — Undergraduate Research Assistant</summary>
 
 <br/>
 
@@ -141,7 +141,7 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 </details>
 
 <details open>
-<summary><b>Darukaa.Earth</b> — Software Engineer Intern, Platform &nbsp;·&nbsp; <code>May – Jul 2026</code></summary>
+<summary><b>Darukaa.Earth</b> — Software Engineer Intern, Platform</summary>
 
 <br/>
 
@@ -156,7 +156,7 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 </details>
 
 <details>
-<summary><b>People &amp; Robots Lab, UW–Madison</b> — Undergraduate Research Assistant &nbsp;·&nbsp; <code>Jan 2026 – Present</code> &nbsp;·&nbsp; <i>AI safety guidance on Android</i></summary>
+<summary><b>People &amp; Robots Lab, UW–Madison</b> — Undergraduate Research Assistant &nbsp;·&nbsp; <i>AI safety guidance on Android</i></summary>
 
 <br/>
 
@@ -170,7 +170,7 @@ open_to:  SWE / Full-Stack / Infra — Fall 2026 & Summer 2027
 </details>
 
 <details>
-<summary><b>VDart Inc.</b> — Software Engineering Intern &nbsp;·&nbsp; <code>May – Aug 2025</code> &nbsp;·&nbsp; <i>2 weeks → &lt;24h RFP turnaround</i></summary>
+<summary><b>VDart Inc.</b> — Software Engineering Intern &nbsp;·&nbsp; <i>2 weeks → &lt;24h RFP turnaround</i></summary>
 
 <br/>
 
